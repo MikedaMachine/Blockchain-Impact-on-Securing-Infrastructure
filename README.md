@@ -1,2 +1,2 @@
-# Blockchain-s-Impact-on-Securing-Infrastructure
+# Blockchain-Impact-on-Securing-Infrastructure
 Research Paper
