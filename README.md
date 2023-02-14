@@ -2,6 +2,7 @@
 Research Paper
 
 Blockchain Assignment
+
 Conduct some research on your own and write at least a 2-page response to the following questions:
 1. What is blockchain? (Not to be confused with Bitcoin, blockchain is the technology)
 2. Can blockchain be used to improve security?
